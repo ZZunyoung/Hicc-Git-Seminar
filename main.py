@@ -6,3 +6,4 @@ def minus(a, b):
 
 if __name__ == "__main__":
     minus(5, 3)
+    main()
