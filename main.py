@@ -1,5 +1,8 @@
 def main():
     print("Hello, World!")
 
+def minus(a, b):
+    print(f"result : {a - b}")
+
 if __name__ == "__main__":
-    main()
+    minus(5, 3)
